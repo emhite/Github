@@ -4,6 +4,11 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-clean-blog/blob/master/LICENSE)
  */
 
+.img-computer {
+  width: 216px;
+  height: 216px;
+}
+
 body {
   font-size: 20px;
   color: #212529;
